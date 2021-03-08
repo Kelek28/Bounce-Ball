@@ -1,5 +1,7 @@
 # Bounce Ball 
 # using javascript and html
 
-https://user-images.githubusercontent.com/64982801/110359440-66211c00-8035-11eb-8ca3-80bd6fdfcb98.mp4
+[Watch the video](https://user-images.githubusercontent.com/64982801/110359670-abdde480-8035-11eb-9a28-197eb4546d7f.mp4)
+
+
 
