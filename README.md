@@ -5,7 +5,8 @@
 
   <p align="center">
    Bounce ball game in javascript!
-  </p>
+https://kelek28.github.io/Bounce-Ball/   
+</p>
 </p>
 
 
